@@ -12,8 +12,8 @@ POST请求
 ``` js
             [
                 ['gnmkdmKey', 'N305005'],
-                ['xnm', xnm],
-                ['xqm', xqm],
+                ['xnm', xnm],//学年号 查分页面F12调试界面可找到
+                ['xqm', xqm],//学期号 查分页面F12调试界面可找到
                 ['dcclbh', 'JW_N305005_GLY'],
                 ...[
                     'kcmc@课程名称',
